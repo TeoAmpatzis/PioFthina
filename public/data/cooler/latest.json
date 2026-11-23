@@ -26094,8 +26094,8 @@
    "radiator": null,
    "rgb": true,
    "scrapedAt": "2026-11-23T08:18:33+00:00",
-   "sockets": null,
-   "heightMm": null,
+   "sockets": "AM4,AM5,LGA1150,LGA1151,LGA1155,LGA1156,LGA1200,LGA1700,LGA1851",
+   "heightMm": 160.0,
    "shipping": null,
    "total": null,
    "merchant": null
@@ -31999,8 +31999,8 @@
    "radiator": null,
    "rgb": false,
    "scrapedAt": "2026-11-23T08:18:33+00:00",
-   "sockets": null,
-   "heightMm": null,
+   "sockets": "SP3,TR4,sTRX4",
+   "heightMm": 65.0,
    "shipping": null,
    "total": null,
    "merchant": null

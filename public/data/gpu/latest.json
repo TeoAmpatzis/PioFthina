@@ -6699,7 +6699,7 @@
    "partner": "Asus",
    "memType": "GDDR6",
    "scrapedAt": "2026-11-23T08:24:59+00:00",
-   "lengthMm": null,
+   "lengthMm": 200.0,
    "minPsu": null,
    "shipping": null,
    "total": null,
