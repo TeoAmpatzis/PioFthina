@@ -11167,8 +11167,8 @@
    "partner": "MSI",
    "memType": "GDDR7",
    "scrapedAt": "2026-11-24T00:22:56+00:00",
-   "lengthMm": null,
-   "minPsu": null,
+   "lengthMm": 227.0,
+   "minPsu": 600,
    "shipping": null,
    "total": null,
    "merchant": null
@@ -11224,8 +11224,8 @@
    "partner": "MSI",
    "memType": "GDDR7",
    "scrapedAt": "2026-11-24T00:22:56+00:00",
-   "lengthMm": null,
-   "minPsu": null,
+   "lengthMm": 227.0,
+   "minPsu": 600,
    "shipping": 0.0,
    "total": 589.0,
    "merchant": "e-shop.gr"
@@ -11908,8 +11908,8 @@
    "partner": "MSI",
    "memType": "GDDR7",
    "scrapedAt": "2026-11-24T00:22:57+00:00",
-   "lengthMm": null,
-   "minPsu": null,
+   "lengthMm": 227.0,
+   "minPsu": 600,
    "shipping": null,
    "total": null,
    "merchant": null
@@ -12308,8 +12308,8 @@
    "partner": "MSI",
    "memType": "GDDR7",
    "scrapedAt": "2026-11-24T00:22:56+00:00",
-   "lengthMm": null,
-   "minPsu": null,
+   "lengthMm": 227.0,
+   "minPsu": 600,
    "shipping": null,
    "total": null,
    "merchant": null
@@ -12993,7 +12993,7 @@
    "memType": "GDDR7",
    "scrapedAt": "2026-11-24T00:22:56+00:00",
    "lengthMm": 227.0,
-   "minPsu": null,
+   "minPsu": 600,
    "shipping": null,
    "total": null,
    "merchant": null
@@ -13145,7 +13145,7 @@
    "memType": "GDDR7",
    "scrapedAt": "2026-11-24T00:22:56+00:00",
    "lengthMm": 227.0,
-   "minPsu": null,
+   "minPsu": 600,
    "shipping": 0.0,
    "total": 899.0,
    "merchant": "e-shop.gr"
@@ -13622,7 +13622,7 @@
    "memType": "GDDR7",
    "scrapedAt": "2026-11-24T00:22:57+00:00",
    "lengthMm": 227.0,
-   "minPsu": null,
+   "minPsu": 600,
    "shipping": null,
    "total": null,
    "merchant": null
