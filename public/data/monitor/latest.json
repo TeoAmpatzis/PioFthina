@@ -7,7 +7,7 @@
    "updatedAt": "2026-11-24T03:41:34+00:00"
   },
   "bestprice": {
-   "count": 2470,
+   "count": 2469,
    "ok": true,
    "updatedAt": "2026-11-24T14:56:19+00:00"
   },
@@ -818,7 +818,15 @@
    "reject": null,
    "shipping": 0.0,
    "total": 85.25,
-   "merchant": "Techbox"
+   "merchant": "Techbox",
+   "gtin": "4710739599121",
+   "pgSize": 24.0,
+   "pgHz": 120,
+   "pgResponseMs": 5.0,
+   "pgNits": 250,
+   "pgPanel": "IPS",
+   "pgAspect": "16:9",
+   "pgColour": "Μαύρο"
   },
   {
    "id": "bestprice:2163946605",
@@ -21041,7 +21049,33 @@
    "reject": null,
    "shipping": 3.0,
    "total": 252.5,
-   "merchant": "t-Support"
+   "merchant": "t-Support",
+   "gtin": "4711474211033",
+   "pgSize": 27.0,
+   "pgWidth": 1920,
+   "pgHeight": 1080,
+   "pgHz": 120,
+   "pgResponseMs": 4.0,
+   "pgNits": 250,
+   "pgContrast": 1500,
+   "pgPanel": "IPS",
+   "pgAspect": "16:9",
+   "pgHdr": false,
+   "pgUltrawide": false,
+   "pgCurved": false,
+   "pgVesa": "100x100",
+   "pgConnectors": [
+    "HDMI",
+    "VGA",
+    "USB",
+    "DisplayPort"
+   ],
+   "pgFeatures": [
+    "Ενσωματωμένα Ηχεία",
+    "Ενσωματωμένη Κάμερα",
+    "USB Hub"
+   ],
+   "pgColour": "Μαύρο"
   },
   {
    "id": "bestprice:2164446486",
@@ -79913,7 +79947,30 @@
    "reject": null,
    "shipping": null,
    "total": null,
-   "merchant": null
+   "merchant": null,
+   "gtin": "6937552407534",
+   "pgSize": 27.0,
+   "pgWidth": 1920,
+   "pgHeight": 1080,
+   "pgHz": 144,
+   "pgResponseMs": 1.0,
+   "pgNits": 250,
+   "pgContrast": 1200,
+   "pgPanel": "IPS",
+   "pgAspect": "16:9",
+   "pgHdr": false,
+   "pgUltrawide": false,
+   "pgCurved": false,
+   "pgVesa": "75x75",
+   "pgConnectors": [
+    "HDMI",
+    "DisplayPort"
+   ],
+   "pgFeatures": [
+    "Ενσωματωμένα Ηχεία"
+   ],
+   "pgEnergy": "E",
+   "pgColour": "Μαύρο"
   },
   {
    "id": "skroutz:64500023",
@@ -96074,7 +96131,27 @@
    "reject": null,
    "shipping": 10.0,
    "total": 105.0,
-   "merchant": "UniMax"
+   "merchant": "UniMax",
+   "gtin": "5397184962541",
+   "pgSize": 24.0,
+   "pgWidth": 1920,
+   "pgHeight": 1080,
+   "pgHz": 100,
+   "pgResponseMs": 8.0,
+   "pgNits": 250,
+   "pgContrast": 1000,
+   "pgPanel": "IPS",
+   "pgAspect": "16:9",
+   "pgHdr": false,
+   "pgUltrawide": false,
+   "pgCurved": false,
+   "pgVesa": "100x100",
+   "pgConnectors": [
+    "HDMI",
+    "VGA"
+   ],
+   "pgEnergy": "D",
+   "pgColour": "Μαύρο"
   },
   {
    "id": "bestprice:2163731558",
@@ -116639,7 +116716,22 @@
    "reject": null,
    "shipping": null,
    "total": null,
-   "merchant": null
+   "merchant": null,
+   "pgSize": 24.0,
+   "pgHz": 100,
+   "pgResponseMs": 5.0,
+   "pgNits": 350,
+   "pgPanel": "IPS",
+   "pgAspect": "16:10",
+   "pgConnectors": [
+    "HDMI",
+    "USB",
+    "DisplayPort"
+   ],
+   "pgFeatures": [
+    "USB Hub"
+   ],
+   "pgColour": "Μαύρο"
   },
   {
    "id": "bestprice:2164976851",
@@ -139071,29 +139163,6 @@
    "chip": "LG 45GX950AB",
    "code": "45GX950AB",
    "size": 44.5,
-   "height": 2160,
-   "width": 5120,
-   "hz": 165,
-   "panel": "OLED",
-   "colour": null,
-   "revision": null,
-   "scrapedAt": "2026-11-24T14:56:19+00:00",
-   "reject": null,
-   "shipping": null,
-   "total": null,
-   "merchant": null
-  },
-  {
-   "id": "bestprice:2164454754",
-   "source": "bestprice",
-   "title": "LG UltraGear 45GX950B-B Ultrawide OLED HDR Curved Gaming Monitor 445\" 5120x2160 (WUHD 5K) 165Hz 0.03ms",
-   "url": "https://www.bestprice.gr/item/2164454754/lg-ultragear-45gx950b-b-ultrawide-oled-hdr-curved-gaming-monitor-445-5120x2160-165hz-0-03ms.html",
-   "price": 1704.49,
-   "shopCount": 1,
-   "brand": "LG",
-   "chip": "LG 45GX950BB",
-   "code": "45GX950BB",
-   "size": null,
    "height": 2160,
    "width": 5120,
    "hz": 165,
@@ -174962,7 +175031,32 @@
    "reject": null,
    "shipping": null,
    "total": null,
-   "merchant": null
+   "merchant": null,
+   "gtin": "8721038004427",
+   "pgSize": 24.1,
+   "pgHz": 100,
+   "pgResponseMs": 4.0,
+   "pgNits": 300,
+   "pgContrast": 1500,
+   "pgPanel": "IPS",
+   "pgAspect": "16:10",
+   "pgHdr": false,
+   "pgUltrawide": false,
+   "pgCurved": false,
+   "pgVesa": "100x100",
+   "pgConnectors": [
+    "HDMI",
+    "VGA",
+    "USB",
+    "USB-C",
+    "DisplayPort"
+   ],
+   "pgFeatures": [
+    "Ενσωματωμένα Ηχεία",
+    "USB Hub"
+   ],
+   "pgEnergy": "C",
+   "pgColour": "Μαύρο"
   },
   {
    "id": "skroutz:68772188",
@@ -238841,7 +238935,14 @@
    "reject": null,
    "shipping": null,
    "total": null,
-   "merchant": null
+   "merchant": null,
+   "gtin": "4948570127894",
+   "pgSize": 34.0,
+   "pgHz": 100,
+   "pgPanel": "IPS",
+   "pgAspect": "21:9",
+   "pgUltrawide": true,
+   "pgCurved": true
   },
   {
    "id": "bestprice:2162385162",
