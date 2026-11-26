@@ -50499,7 +50499,7 @@
    "m2Slots": null,
    "m2Gen": null,
    "sataPorts": null,
-   "maxMemoryGB": null,
+   "maxMemoryGB": 256,
    "biosFlashback": null,
    "shipping": null,
    "total": null,
