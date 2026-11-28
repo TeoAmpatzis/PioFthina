@@ -4234,7 +4234,7 @@
    "rgb": true,
    "scrapedAt": "2026-11-28T08:50:17+00:00",
    "sockets": "AM4,AM5,LGA1150,LGA1151,LGA1155,LGA1156,LGA1200,LGA1700,LGA1851",
-   "heightMm": null,
+   "heightMm": 155.0,
    "shipping": 2.9,
    "total": 40.27,
    "merchant": "Buychoice"
@@ -4253,7 +4253,7 @@
    "rgb": true,
    "scrapedAt": "2026-11-28T08:02:37+00:00",
    "sockets": "AM4,AM5,LGA1150,LGA1151,LGA1155,LGA1156,LGA1200,LGA1700,LGA1851",
-   "heightMm": null,
+   "heightMm": 155.0,
    "shipping": 2.5,
    "total": 41.0,
    "merchant": "Visionstudio"
@@ -4272,7 +4272,7 @@
    "rgb": true,
    "scrapedAt": "2026-11-28T08:50:17+00:00",
    "sockets": "AM4,AM5,LGA1150,LGA1151,LGA1155,LGA1156,LGA1200,LGA1700,LGA1851",
-   "heightMm": null,
+   "heightMm": 155.0,
    "shipping": null,
    "total": null,
    "merchant": null
@@ -4291,7 +4291,7 @@
    "rgb": false,
    "scrapedAt": "2026-11-28T08:50:17+00:00",
    "sockets": "AM4,AM5,LGA1150,LGA1151,LGA1155,LGA1156,LGA1200,LGA1700,LGA1851",
-   "heightMm": null,
+   "heightMm": 155.0,
    "shipping": null,
    "total": null,
    "merchant": null
@@ -5411,7 +5411,7 @@
    "radiator": 420,
    "rgb": true,
    "scrapedAt": "2026-11-28T08:50:17+00:00",
-   "sockets": null,
+   "sockets": "AM4,AM5,LGA1700,LGA1851,LGA2011,LGA2011-3,LGA2066,LGA3647,SP3,TR4,sTRX4",
    "heightMm": null,
    "shipping": null,
    "total": null,
@@ -64669,7 +64669,7 @@
    "radiator": null,
    "rgb": false,
    "scrapedAt": "2026-11-28T08:50:17+00:00",
-   "sockets": null,
+   "sockets": "AM4,AM5,LGA1150,LGA1151,LGA1155,LGA1156,LGA1200,LGA1700,LGA1851",
    "heightMm": null,
    "shipping": null,
    "total": null,
